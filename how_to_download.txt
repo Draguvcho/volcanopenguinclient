@@ -1,0 +1,3 @@
+• Go to releases and click in v1.0.0, then click in "Volcano Penguin Setup 1.1.2.exe"
+• Open the installer and click next, next, next...
+• Enjoy!
